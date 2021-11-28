@@ -1,12 +1,12 @@
 # Fuel_Fire
 
-# OBJECTIVE
+-> OBJECTIVE
   This application is for heavy vehicle drivers to take notes of the fuel.
-#ADMIN
+-> ADMIN
   Admin won’t have an account then so you need to register your self then you need to login with your credentials.
   Then press the Show Data button where you can see the information.
   
-#Driver needs to fill this following details… :-
+-> Driver needs to fill this following details… :-
   Full Name
   Date
   Vehicle number
